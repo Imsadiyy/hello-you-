@@ -97,6 +97,5 @@ git push -u origin main
 
 ---
 
-## ✨ Author
-Created with ❤️ by **[Your Name]**
+`  `
 
