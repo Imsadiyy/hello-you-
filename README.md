@@ -20,7 +20,7 @@ hello-cloud-engineer/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/hello-cloud-engineer.git
+git clone https://github.com/Imsadiyy/hello-you-.git
 cd hello-cloud-engineer
 ```
 
